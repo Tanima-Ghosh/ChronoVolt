@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "image": "../../public/images/products/product-1-1.webp",
-        "secondImage": "../../public/images/products/product-1-2.webp",
+        "image": "images/products/product-1-1.webp",
+        "secondImage": "images/products/product-1-2.webp",
         "productName": "Fossil Flynn Chronograph Men's Watch",
         "price": 27.99,
         "tag": "New",
@@ -28,8 +28,8 @@
 
     {
         "id": 2,
-        "image": "../../public/images/products/product-2-1.webp",
-        "secondImage": "../../public/images/products/product-2-1.webp",
+        "image": "images/products/product-2-1.webp",
+        "secondImage": "images/products/product-2-1.webp",
         "productName": "Fastrack Tick Tock Quartz Multifunction Watch",
         "price": 53.60,
         "oldPrice": 21.89,
@@ -53,8 +53,8 @@
 
     {
         "id": 3,
-        "image": "../../public/images/products/product-3-1.webp",
-        "secondImage": "../../public/images/products/product-3-2.webp",
+        "image": "images/products/product-3-1.webp",
+        "secondImage": "images/products/product-3-2.webp",
         "productName": "Timex Stunners Quartz Rose Gold Watch",
         "price": 53.79,
         "tag": "New",
@@ -79,8 +79,8 @@
 
     {
         "id": 4,
-        "image": "../../public/images/products/product-4-1.webp",
-        "secondImage": "../../public/images/products/product-4-2.webp",
+        "image": "images/products/product-4-1.webp",
+        "secondImage": "images/products/product-4-2.webp",
         "productName": "Fastrack Quartz Analog Black Dial Strap Watch",
         "price": 69.99,
         "oldPrice": 60.00,
@@ -105,8 +105,8 @@
 
     {
         "id": 5,
-        "image": "../../public/images/products/product-5-1.webp",
-        "secondImage": "../../public/images/products/product-5-2.webp",
+        "image": "images/products/product-5-1.webp",
+        "secondImage": "images/products/product-5-2.webp",
         "productName": "Daniel Wellington Petite Melrose Women’s Watch",
         "price": 25.59,
         "oldPrice": 85.00,
@@ -132,8 +132,8 @@
 
     {
         "id": 6,
-        "image": "../../public/images/products/product-6-1.webp",
-        "secondImage": "../../public/images/products/product-6-2.webp",
+        "image": "images/products/product-6-1.webp",
+        "secondImage": "images/products/product-6-2.webp",
         "productName": "Emporio Armani Watch Gianni T-Bar Ladies",
         "price": 27.79,
         "vendor": "6",
@@ -157,8 +157,8 @@
 
     {
         "id": 7,
-        "image": "../../public/images/products/product-7-1.webp",
-        "secondImage": "../../public/images/products/product-7-2.webp",
+        "image": "images/products/product-7-1.webp",
+        "secondImage": "images/products/product-7-2.webp",
         "productName": "Emporio Armani Women's Dress Watch",
         "price": 27.39,
         "vendor": "7",
@@ -182,8 +182,8 @@
 
     {
         "id": 8,
-        "image": "../../public/images/products/product-8-1.webp",
-        "secondImage": "../../public/images/products/product-8-2.webp",
+        "image": "images/products/product-8-1.webp",
+        "secondImage": "images/products/product-8-2.webp",
         "productName": "Titan Day & Date Softest Silicone Strap Analog Watch",
         "price": 19.29,
         "vendor": "8",
@@ -207,8 +207,8 @@
 
     {
         "id": 9,
-        "image": "../../public/images/products/product-9-1.webp",
-        "secondImage": "../../public/images/products/product-9-2.webp",
+        "image": "images/products/product-9-1.webp",
+        "secondImage": "images/products/product-9-2.webp",
         "productName": "Fastrack Analog Black Dial Men's Casual Watch",
         "price": 35.99,
         "vendor": "9",
@@ -232,8 +232,8 @@
 
     {
         "id": 10,
-        "image": "../../public/images/products/product-10-1.webp",
-        "secondImage": "../../public/images/products/product-10-2.webp",
+        "image": "images/products/product-10-1.webp",
+        "secondImage": "images/products/product-10-2.webp",
         "productName": "Fastrack Tees Quartz Analog Silicone Strap Watch",
         "price": 45.79,
         "oldPrice": 75.00,
@@ -259,8 +259,8 @@
 
     {
         "id": 11,
-        "image": "../../public/images/products/product-11-1.webp",
-        "secondImage": "../../public/images/products/product-11-2.webp",
+        "image": "images/products/product-11-1.webp",
+        "secondImage": "images/products/product-11-2.webp",
         "productName": "Fastrack Urban Camo Black Dial Watch",
         "price": 29.90,
         "vendor": "11",
@@ -285,8 +285,8 @@
 
     {
         "id": 12,
-        "image": "../../public/images/products/product-12-1.webp",
-        "secondImage": "../../public/images/products/product-12-2.webp",
+        "image": "images/products/product-12-1.webp",
+        "secondImage": "images/products/product-12-2.webp",
         "productName": "Fossil Women's Riley Quartz Stainless Steel",
         "price": 21.39,
         "vendor": "12",
@@ -310,8 +310,8 @@
 
     {
         "id": 13,
-        "image": "../../public/images/products/product-13-1.webp",
-        "secondImage": "../../public/images/products/product-13-2.webp",
+        "image": "images/products/product-13-1.webp",
+        "secondImage": "images/products/product-13-2.webp",
         "productName": "Timex Guess Black and Gold-Tone Analog Watch",
         "price": 19.49,
         "vendor": "13",
@@ -336,8 +336,8 @@
 
     {
         "id": 14,
-        "image": "../../public/images/products/product-14-1.webp",
-        "secondImage": "../../public/images/products/product-14-2.webp",
+        "image": "images/products/product-14-1.webp",
+        "secondImage": "images/products/product-14-2.webp",
         "productName": "Timex Analog Silver Dial Men's Wrist Watch",
         "price": 110.49,
         "oldPrice": 130.00,
@@ -364,8 +364,8 @@
 
     {
         "id": 15,
-        "image": "../../public/images/products/product-15-1.webp",
-        "secondImage": "../../public/images/products/product-15-2.webp",
+        "image": "images/products/product-15-1.webp",
+        "secondImage": "images/products/product-15-2.webp",
         "productName": "Timex Analog Watch for Men Blue Dial",
         "price": 110.29,
         "oldPrice": 130.00,
@@ -392,8 +392,8 @@
 
     {
         "id": 16,
-        "image": "../../public/images/products/product-16-1.webp",
-        "secondImage": "../../public/images/products/product-16-2.webp",
+        "image": "images/products/product-16-1.webp",
+        "secondImage": "images/products/product-16-2.webp",
         "productName": "Guess Exchange Analog White Dial Men's Watch",
         "price": 17.09,
         "oldPrice": 22.00,
