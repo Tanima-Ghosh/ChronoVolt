@@ -1,0 +1,417 @@
+[
+    {
+        "id": 1,
+        "image": "../../public/images/products/product-1-1.webp",
+        "secondImage": "../../public/images/products/product-1-2.webp",
+        "productName": "Fossil Flynn Chronograph Men's Watch",
+        "price": 27.99,
+        "tag": "New",
+        "vendor": "1",
+        "sku": "501",
+        "mainDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function. Featuring a refined stainless steel case paired with a detailed multi-function chronograph dial, this watch delivers precision timekeeping with a touch of rugged elegance. Its rich textures, clean lines, and versatile design make it a perfect accessory for both professional and casual wear. With reliable quartz movement and durable materials, the Flynn Chronograph effortlessly combines durability with timeless appeal.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Fossil",
+        "dialCategory": "analogue"
+    },
+
+
+    {
+        "id": 2,
+        "image": "../../public/images/products/product-2-1.webp",
+        "secondImage": "../../public/images/products/product-2-1.webp",
+        "productName": "Fastrack Tick Tock Quartz Multifunction Watch",
+        "price": 53.60,
+        "oldPrice": 21.89,
+        "vendor": "2",
+        "mainDescription": "The Fastrack Chronograph watch is a bold statement of modern elegance designed for individuals who value both function and fashion. Crafted with a sleek brown-toned dial and a matching stainless steel strap, this watch exudes a premium aesthetic suitable for any occasion. Featuring three sub-dials for added precision and a chronograph design, it perfectly blends practicality with a stylish edge. Its robust build and contemporary finish make it an ideal companion for work, casual outings, or formal events. With water resistance and reliable quartz movement, this timepiece is more than just an accessory—it’s a reflection of your timeless style.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fastrack Chronograph watch is designed for those who believe style should be bold and timeless. Its carefully crafted brown dial paired with a rose-gold stainless steel strap makes it stand out, offering a refined aesthetic that complements both formal and casual attire. The attention to detail in the brushed finish and polished accents ensures the watch radiates elegance while remaining versatile. Whether you’re stepping into a boardroom or enjoying a night out, this watch will elevate your presence with a touch of understated sophistication.",
+        "dial": "Brown, Chronograph with three sub-dials",
+        "strap": "Stainless Steel, Rose-Gold Finish",
+        "waterResistance": "Up to 50 meters",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Fast Track"
+    },
+
+
+    {
+        "id": 3,
+        "image": "../../public/images/products/product-3-1.webp",
+        "secondImage": "../../public/images/products/product-3-2.webp",
+        "productName": "Timex Stunners Quartz Rose Gold Watch",
+        "price": 53.79,
+        "tag": "New",
+        "vendor": "3",
+        "mainDescription": "The Timex Multifunction Black Dial Watch is an epitome of modern sophistication and timeless design. With its sleek black dial, accented by golden hands and markers, this watch strikes a perfect balance between elegance and functionality. The multifunctional sub-dials enhance its practicality, displaying day, date, and 24-hour timekeeping with ease. Its black stainless steel strap pairs seamlessly with the gold-tone case, giving it a refined yet bold appeal. Designed for the contemporary lifestyle, this timepiece offers durability, precision, and versatility—ideal for both formal settings and everyday wear. A statement accessory, it embodies the confidence and class of its wearer.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Women",
+        "brand": "Timex",
+        "dialCategory": "analogue"
+    },
+
+
+    {
+        "id": 4,
+        "image": "../../public/images/products/product-4-1.webp",
+        "secondImage": "../../public/images/products/product-4-2.webp",
+        "productName": "Fastrack Quartz Analog Black Dial Strap Watch",
+        "price": 69.99,
+        "oldPrice": 60.00,
+        "tag": "Sale",
+        "vendor": "4",
+        "mainDescription": "The Fastrack Minimalist Black Analog Watch is designed for individuals who appreciate simplicity with a modern edge. Its sleek black dial, complemented by minimal hour markers and clean hands, creates a bold yet understated look. The sturdy black strap ensures comfort and durability, making it an ideal choice for daily wear. Built with precision quartz movement, it guarantees accurate timekeeping while maintaining a lightweight feel. Whether paired with casual attire or office wear, this watch effortlessly adds a refined touch to your style. Functional, versatile, and stylish, it is the perfect companion for those who prefer elegance in simplicity.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fastrack Minimalist Black Analog Watch redefines elegance through simplicity, offering a contemporary accessory that resonates with today’s fashion-conscious individuals. Featuring a clean black dial with crisp white markers and hands, this timepiece delivers a sleek design that prioritizes clarity and style. Its lightweight yet durable build makes it a practical choice for everyday use, whether you’re navigating a busy workday or enjoying a relaxed evening out. The robust strap is designed to provide lasting comfort, while its versatile appearance pairs seamlessly with both casual and formal outfits.",
+        "dial": "Black with white markers",
+        "strap": "Black durable strap",
+        "waterResistance": "Up to 30 meters",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Fast Track"
+    },
+
+
+    {
+        "id": 5,
+        "image": "../../public/images/products/product-5-1.webp",
+        "secondImage": "../../public/images/products/product-5-2.webp",
+        "productName": "Daniel Wellington Petite Melrose Women’s Watch",
+        "price": 25.59,
+        "oldPrice": 85.00,
+        "tag": "Sale",
+        "vendor": "5",
+        "mainDescription": "The Limestone Blue Leather Analog Watch combines elegance with everyday practicality, designed for men who value both style and performance. Its striking blue dial, enhanced with luminous hands and bold indices, ensures clarity and sophistication. The genuine leather strap with fine stitching not only complements the dial but also guarantees comfort for all-day wear. Featuring day and date windows for added utility, this watch is powered by a reliable quartz movement for precision timekeeping. Whether worn for casual outings or formal events, the Limestone watch makes a bold impression, offering a perfect balance of durability, function, and timeless design.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Limestone Blue Leather Analog Watch is a refined accessory that brings a touch of modern sophistication to your wardrobe. Crafted with a polished stainless-steel case and a deep blue dial, this watch effortlessly combines durability with contemporary design. Its luminous hands and bold markers ensure visibility in all lighting conditions, while the contrasting red-accented day window and date display add both functionality and a pop of color. The smooth, genuine leather strap in matching blue, with contrasting white stitching, enhances its stylish appeal while providing all-day comfort and durability.",
+        "dial": "Blue with luminous hands and indices, day & date display",
+        "strap": "Blue genuine leather with white stitching",
+        "waterResistance": "Splash resistant",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Danniel Wellington"
+    },
+
+
+
+    {
+        "id": 6,
+        "image": "../../public/images/products/product-6-1.webp",
+        "secondImage": "../../public/images/products/product-6-2.webp",
+        "productName": "Emporio Armani Watch Gianni T-Bar Ladies",
+        "price": 27.79,
+        "vendor": "6",
+        "mainDescription": "The Timex Two-Tone Chronograph Watch is a bold statement of refined elegance and modern craftsmanship. Featuring a striking blue dial contrasted with rose gold-tone accents and a stainless steel two-tone bracelet, this watch is both stylish and versatile. Its chronograph functionality ensures precise time measurement, while luminous markers and sub-dials enhance visibility and performance. The polished rose gold bezel adds a sophisticated edge, making it suitable for both formal and casual occasions. Powered by a reliable quartz movement and water-resistant for everyday use, this watch blends durability with timeless design, making it the perfect companion for today’s confident gentleman.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Timex Two-Tone Chronograph Watch embodies a perfect harmony of style, precision, and durability. Designed for men who appreciate elegance with a modern twist, this timepiece features a captivating blue dial with rose gold-tone details, creating a bold yet sophisticated look. The stainless-steel case, complemented by a polished two-tone bracelet, offers both strength and comfort, making it a reliable accessory for everyday wear. The chronograph sub-dials add practicality by allowing precise time tracking, while luminous markers ensure easy readability even in low-light conditions.",
+        "dial": "Blue with rose gold-tone sub-dials and luminous markers",
+        "strap": "Stainless steel two-tone (silver & rose gold) bracelet",
+        "waterResistance": "Splash resistant",
+        "movement": "Quartz with chronograph functionality",
+        "category": "Men",
+        "brand": "Timex"
+    },
+
+
+
+    {
+        "id": 7,
+        "image": "../../public/images/products/product-7-1.webp",
+        "secondImage": "../../public/images/products/product-7-2.webp",
+        "productName": "Emporio Armani Women's Dress Watch",
+        "price": 27.39,
+        "vendor": "7",
+        "mainDescription": "The Limestone Slim Blue Leather Watch redefines sophistication with its minimal yet striking design. Featuring a sleek blue dial with clean hour markers, this timepiece embodies elegance in its purest form. The slim stainless-steel case paired with a textured blue leather strap adds both durability and comfort, making it ideal for all-day wear. Its refined aesthetics ensure it seamlessly complements formal attire while remaining versatile enough for casual looks. Designed with precision quartz movement, this watch guarantees reliable performance and timeless appeal, making it a perfect choice for individuals who prefer understated luxury and effortless style in their everyday accessories.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Limestone Slim Blue Leather Watch is crafted for individuals who believe less is more when it comes to style. Its clean, minimalist dial with slender silver-tone markers ensures a modern and polished look that never goes out of fashion. The deep blue shade of the dial and matching leather strap give the watch a sophisticated charm, making it suitable for business meetings, evening dinners, or casual outings. Its slim case design ensures a lightweight and comfortable fit, offering all-day wearability without compromising on durability.",
+        "dial": "Blue with slim silver-tone markers",
+        "strap": "Textured blue leather strap",
+        "waterResistance": "Splash resistant",
+        "movement": "Quartz precision movement",
+        "category": "Men",
+        "brand": "Limestone"
+    },
+
+
+
+    {
+        "id": 8,
+        "image": "../../public/images/products/product-8-1.webp",
+        "secondImage": "../../public/images/products/product-8-2.webp",
+        "productName": "Titan Day & Date Softest Silicone Strap Analog Watch",
+        "price": 19.29,
+        "vendor": "8",
+        "mainDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function. Featuring a refined stainless steel case paired with a detailed multi-function chronograph dial, this watch delivers precision timekeeping with a touch of rugged elegance. Its rich textures, clean lines, and versatile design make it a perfect accessory for both professional and casual wear. With reliable quartz movement and durable materials, the Flynn Chronograph effortlessly combines durability with timeless appeal.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Women",
+        "brand": "Titan"
+    },
+
+
+
+    {
+        "id": 9,
+        "image": "../../public/images/products/product-9-1.webp",
+        "secondImage": "../../public/images/products/product-9-2.webp",
+        "productName": "Fastrack Analog Black Dial Men's Casual Watch",
+        "price": 35.99,
+        "vendor": "9",
+        "mainDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function. Featuring a refined stainless steel case paired with a detailed multi-function chronograph dial, this watch delivers precision timekeeping with a touch of rugged elegance. Its rich textures, clean lines, and versatile design make it a perfect accessory for both professional and casual wear. With reliable quartz movement and durable materials, the Flynn Chronograph effortlessly combines durability with timeless appeal.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Fast Track"
+    },
+
+
+
+    {
+        "id": 10,
+        "image": "../../public/images/products/product-10-1.webp",
+        "secondImage": "../../public/images/products/product-10-2.webp",
+        "productName": "Fastrack Tees Quartz Analog Silicone Strap Watch",
+        "price": 45.79,
+        "oldPrice": 75.00,
+        "tag": "Sale",
+        "vendor": "10",
+        "mainDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function. Featuring a refined stainless steel case paired with a detailed multi-function chronograph dial, this watch delivers precision timekeeping with a touch of rugged elegance. Its rich textures, clean lines, and versatile design make it a perfect accessory for both professional and casual wear. With reliable quartz movement and durable materials, the Flynn Chronograph effortlessly combines durability with timeless appeal.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Titan"
+    },
+
+
+
+    {
+        "id": 11,
+        "image": "../../public/images/products/product-11-1.webp",
+        "secondImage": "../../public/images/products/product-11-2.webp",
+        "productName": "Fastrack Urban Camo Black Dial Watch",
+        "price": 29.90,
+        "vendor": "11",
+        "mainDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function. Featuring a refined stainless steel case paired with a detailed multi-function chronograph dial, this watch delivers precision timekeeping with a touch of rugged elegance. Its rich textures, clean lines, and versatile design make it a perfect accessory for both professional and casual wear. With reliable quartz movement and durable materials, the Flynn Chronograph effortlessly combines durability with timeless appeal.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Fast Track"
+    },
+
+
+
+
+    {
+        "id": 12,
+        "image": "../../public/images/products/product-12-1.webp",
+        "secondImage": "../../public/images/products/product-12-2.webp",
+        "productName": "Fossil Women's Riley Quartz Stainless Steel",
+        "price": 21.39,
+        "vendor": "12",
+        "mainDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function. Featuring a refined stainless steel case paired with a detailed multi-function chronograph dial, this watch delivers precision timekeeping with a touch of rugged elegance. Its rich textures, clean lines, and versatile design make it a perfect accessory for both professional and casual wear. With reliable quartz movement and durable materials, the Flynn Chronograph effortlessly combines durability with timeless appeal.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Fast Track"
+    },
+
+
+
+    {
+        "id": 13,
+        "image": "../../public/images/products/product-13-1.webp",
+        "secondImage": "../../public/images/products/product-13-2.webp",
+        "productName": "Timex Guess Black and Gold-Tone Analog Watch",
+        "price": 19.49,
+        "vendor": "13",
+        "mainDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function. Featuring a refined stainless steel case paired with a detailed multi-function chronograph dial, this watch delivers precision timekeeping with a touch of rugged elegance. Its rich textures, clean lines, and versatile design make it a perfect accessory for both professional and casual wear. With reliable quartz movement and durable materials, the Flynn Chronograph effortlessly combines durability with timeless appeal.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Timex"
+    },
+
+
+
+
+    {
+        "id": 14,
+        "image": "../../public/images/products/product-14-1.webp",
+        "secondImage": "../../public/images/products/product-14-2.webp",
+        "productName": "Timex Analog Silver Dial Men's Wrist Watch",
+        "price": 110.49,
+        "oldPrice": 130.00,
+        "tag": "Sale",
+        "vendor": "14",
+        "mainDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function. Featuring a refined stainless steel case paired with a detailed multi-function chronograph dial, this watch delivers precision timekeeping with a touch of rugged elegance. Its rich textures, clean lines, and versatile design make it a perfect accessory for both professional and casual wear. With reliable quartz movement and durable materials, the Flynn Chronograph effortlessly combines durability with timeless appeal.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Timex"
+    },
+
+
+
+
+    {
+        "id": 15,
+        "image": "../../public/images/products/product-15-1.webp",
+        "secondImage": "../../public/images/products/product-15-2.webp",
+        "productName": "Timex Analog Watch for Men Blue Dial",
+        "price": 110.29,
+        "oldPrice": 130.00,
+        "tag": "Sale",
+        "vendor": "15",
+        "mainDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function. Featuring a refined stainless steel case paired with a detailed multi-function chronograph dial, this watch delivers precision timekeeping with a touch of rugged elegance. Its rich textures, clean lines, and versatile design make it a perfect accessory for both professional and casual wear. With reliable quartz movement and durable materials, the Flynn Chronograph effortlessly combines durability with timeless appeal.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Timex"
+    },
+
+
+
+
+    {
+        "id": 16,
+        "image": "../../public/images/products/product-16-1.webp",
+        "secondImage": "../../public/images/products/product-16-2.webp",
+        "productName": "Guess Exchange Analog White Dial Men's Watch",
+        "price": 17.09,
+        "oldPrice": 22.00,
+        "tag": "Sale",
+        "vendor": "16",
+        "mainDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function. Featuring a refined stainless steel case paired with a detailed multi-function chronograph dial, this watch delivers precision timekeeping with a touch of rugged elegance. Its rich textures, clean lines, and versatile design make it a perfect accessory for both professional and casual wear. With reliable quartz movement and durable materials, the Flynn Chronograph effortlessly combines durability with timeless appeal.",
+        "benefits": [
+            "Water-resistant up to 50m",
+            "Scratch-proof dial",
+            "Battery life of 2 years",
+            "Classic design"
+        ],
+        "tabDescription": "The Fossil Flynn Chronograph Men's Watch is a bold and sophisticated timepiece designed for modern men who appreciate both style and function.",
+        "dial": "Black",
+        "strap": "Leather",
+        "waterResistance": "50m",
+        "movement": "Quartz",
+        "category": "Men",
+        "brand": "Fast Track"
+    }
+]
